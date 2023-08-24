@@ -23,10 +23,15 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakshi2822&label=Profile%20views&color=0e75b6&style=flat" alt="shakshi2822" /> </p>
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Lmy23L3RkJ0sEWokRN/giphy.gif" />
 - 🔭 I’m currently working on **Machine Learning/AI**
+
 - 🌱 I’m currently learning **Frontend and backend Technologies**
+  
 - 💬 You can ask me about **Android and development**
+  
 - 💪🏼 Future Goals: Learn more technologies - **Never stop creating new ideas**
+  
 - 📫 How to reach me **shakshimishra83@gmail.com**
+  
 - 📄 Know about my experiences [https://drive.google.com/file/d/1tfUcr2dpXsOl14xO2wZBbLgGGOxBKUu_/view?usp=drive_link](https://drive.google.com/file/d/1tfUcr2dpXsOl14xO2wZBbLgGGOxBKUu_/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
