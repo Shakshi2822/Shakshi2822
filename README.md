@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate Software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakshi2822&label=Profile%20views&color=0e75b6&style=flat" alt="shakshi2822" /> </p>
-<img align="right" alt="GIF" height="160px" src="https://tenor.com/bEoVf.gif" />
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" />
 - 🔭 I’m currently working on **Machine Learning/AI**
 
 - 🌱 I’m currently learning **Frontend and backend Technologies**
